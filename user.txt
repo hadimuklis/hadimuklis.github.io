@@ -1,0 +1,12 @@
+	Siswa
+
+username : siswa
+Password : siswa
+
+	Guru
+username : diklis_doto
+password : darulhufadz1
+	
+	Admin
+username : hadi_doto
+password : darulhufadz1
